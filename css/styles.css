@@ -112,6 +112,12 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   color: var(--main-btn-color);
+  background: #2196f3;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #188ce8;
 }
 
 /* -------- section-second --------*/
@@ -242,4 +248,9 @@ body {
   line-height: 1.87;
   letter-spacing: 0.03em;
   color: var(--main-text-color);
+}
+
+.buttons-text:hover,
+.buttons-text:focus {
+  color: #2196f3;
 }
